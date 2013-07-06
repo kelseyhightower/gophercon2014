@@ -12,19 +12,19 @@ This exciting presentation will be packed with live demos on getting things done
  * Gathering Metrics - Pushing GitHub metrics to Graphite 
  * Distributing Go Programs
 
-Getting Setup  
+#### Getting Setup
 Walkthrough installing Go, setting up the GOPATH, and configuring the Vim text editor.
 
-Building CLI Utilities  
+#### Building CLI Utilities
 Live coding of a CLI utility using the [flag][1] and [os][2] packages from the Go standard library.
 
-Cloud Automation  
+#### Cloud Automation
 Code review and demo a Go application used to manage Openstack instances. Explain the usage of the [net/http][3] and [encoding/json][4] packages from the Go standard library.
 
-Gathering Metrics  
+#### Gathering Metrics
 Code review and demo a Go application that gathers metrics from GitHub and pushes those metrics to Graphite over TCP/IP. Explain the usage of the [net][5] package from the Go standard library, and how to make practical use of [goroutines][6] and [channels][7].
 
-Distributing Go Programs  
+#### Distributing Go Programs
 Walkthrough of building and distributing Go programs. Discuss the benefits and pitfalls of Go's single binaries.
 
 [*] Code from the talk will be available for download 
