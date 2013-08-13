@@ -35,7 +35,7 @@ Since then I’ve given quite a few talks and webinars on using Puppet technolog
 Kelsey Hightower is a System Admin with over 10 years of experience in making IT problems disappear using the power of unix, programming, and empathy.
 
 [http://www.linkedin.com/in/kelseyjhightower][7]
-@kelseyhightower
+
 
 [1]: http://www.meetup.com/South-East-Puppet-User-Group/
 [2]: http://www.meetup.com/python-atlanta/
