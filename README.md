@@ -18,31 +18,29 @@ What makes this session great is that as a Sysadmin, I’ll add diversity to the
 
 Most talks about Go are geared towards developers, but there’s a lot of things for Sysadmins to be excited about.  While concurrency and language semantics are great, we sysadmins are more concerned with writing simple code that solves the problem. 
 
-As the founder of the [South East Puppet Users Group][1] and former co-organizer of the [PyAtl Users Group][2], I’ve given many talks ranging from System Administration to Software development. Right before landing a job at my current employer Puppet Labs, I gave a talk at PuppetConf 2011- [Streamlining Workflow with Puppet][1].
+As the founder of the [South East Puppet Users Group][1] and former co-organizer of the [PyAtl Users Group][2], I’ve given many talks ranging from System Administration to Software development. Right before landing a job at my current employer Puppet Labs, I gave a talk at PuppetConf 2011- [Streamlining Workflow with Puppet][3].
 
 
 
 Since then I’ve given quite a few talks and webinars on using Puppet technologies:
 
-* [Streamlining Workflow with Puppet][3] (PuppetConf 2011)
-* [External Data: Hiera, ENC's][4] (PuppetConf 2012)
-* [Network Automation Puppet and Juniper Networks][5]
+* [Streamlining Workflow with Puppet][4] (PuppetConf 2011)
+* [External Data: Hiera, ENC's][5] (PuppetConf 2012)
+* [Network Automation Puppet and Juniper Networks][6]
 * About 6 Puppet Camps -- sorry no videos
-
-
-
 
 
 ## Bio
 
 Kelsey Hightower is a System Admin with over 10 years of experience in making IT problems disappear using the power of unix, programming, and empathy.
 
-[http://www.linkedin.com/in/kelseyjhightower][6]
+[http://www.linkedin.com/in/kelseyjhightower][7]
 @kelseyhightower
 
 [1]: http://www.meetup.com/South-East-Puppet-User-Group/
 [2]: http://www.meetup.com/python-atlanta/
 [3]: http://www.youtube.com/watch?v=WUlYEJ-fpfU
-[4]: http://www.youtube.com/watch?v=z9TK-gUNFHk
-[5]: http://www.juniper.net/us/en/forms/simplify-data-center-on-demand/
-[6]: http://www.linkedin.com/in/kelseyjhightower
+[4]: http://www.youtube.com/watch?v=WUlYEJ-fpfU
+[5]: http://www.youtube.com/watch?v=z9TK-gUNFHk
+[6]: http://www.juniper.net/us/en/forms/simplify-data-center-on-demand/
+[7]: http://www.linkedin.com/in/kelseyjhightower
