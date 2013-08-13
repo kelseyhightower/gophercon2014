@@ -1,38 +1,48 @@
-# Go for System Administration 
+# Go for Sysadmins
 
-## Abstract
+## Description
 
-This exciting presentation will be packed with live demos on getting things done with Go. We'll start with a light introduction to Go and preparing a local Go development environment. Next we'll take a tour of the Go standard library with a focus on the Go packages most useful for modern day system administration and automation -- with stops along the way for demos and code reviews of real world Go applications. Finally we'll wrap up with tips on building and distributing Go programs.
+As a Sysadmin, why should you learn more about Go?  Well, imagine not having to mess around with old versions of Python or Ruby(I’m looking at you RHEL 5), or fall back to C when you need to improve performance.  Imagine being able to deploy self-contained binaires that don’t require yet another runtime to be installed on the target system. If that sounds awesome to you, then you’re going to love Go.
 
-### Topics
+Using packages found in the standard library and Go’s unique language features, I’ll show you how to solve common Sysadmin problems in new ways, and set the stage for tackling a whole new set of problems that our current tools have made way too complicated.
 
- * Getting Setup
- * Building CLI Utilities
- * Cloud Automation - Managing Openstack instances
- * Gathering Metrics - Pushing GitHub metrics to Graphite 
- * Distributing Go Programs
+Attend Go for Sysadmins and learn how to:
 
-#### Getting Setup
-Walkthrough installing Go, setting up the GOPATH, and configuring the Vim text editor.
+* Leverage the Go standard library for everyday system administration tasks.
+* Make practical use of goroutines and channels in system utilities and scripts
+* Follow best practices for managing, building, and distributing Go projects.
 
-#### Building CLI Utilities
-Live coding of a CLI utility using the [flag][1] and [os][2] packages from the Go standard library.
+## Notes for the Planning Committee
 
-#### Cloud Automation
-Code review and demo a Go application used to manage Openstack instances. Explain the usage of the [net/http][3] and [encoding/json][4] packages from the Go standard library.
+What makes this session great is that as a Sysadmin, I’ll add diversity to the conference by talking about Go from a different angle. I (and other admins) have grown tired of fighting with the system Ruby/Python, and managing library dependencies with pip and bundler. I just want to focus on getting things done. And Go makes that a reality for me.
 
-#### Gathering Metrics
-Code review and demo a Go application that gathers metrics from GitHub and pushes those metrics to Graphite over TCP/IP. Explain the usage of the [net][5] package from the Go standard library, and how to make practical use of [goroutines][6] and [channels][7].
+Most talks about Go are geared towards developers, but there’s a lot of things for Sysadmins to be excited about.  While concurrency and language semantics are great, we sysadmins are more concerned with writing simple code that solves the problem. 
 
-#### Distributing Go Programs
-Walkthrough of building and distributing Go programs. Discuss the benefits and pitfalls of Go's single binaries.
+As the founder of the [South East Puppet Users Group][1] and former co-organizer of the [PyAtl Users Group][2], I’ve given many talks ranging from System Administration to Software development. Right before landing a job at my current employer Puppet Labs, I gave a talk at PuppetConf 2011- [Streamlining Workflow with Puppet][1].
 
-[*] Code from the talk will be available for download 
 
-[1]: http://golang.org/pkg/flag
-[2]: http://golang.org/pkg/os
-[3]: http://golang.org/pkg/net/http
-[4]: http://golang.org/pkg/encoding/json
-[5]: http://golang.org/pkg/net
-[6]: http://golang.org/doc/effective_go.html#goroutines
-[7]: http://golang.org/doc/effective_go.html#channels
+
+Since then I’ve given quite a few talks and webinars on using Puppet technologies:
+
+* [Streamlining Workflow with Puppet][3] (PuppetConf 2011)
+* [External Data: Hiera, ENC's][4] (PuppetConf 2012)
+* [Network Automation Puppet and Juniper Networks][5]
+* About 6 Puppet Camps -- sorry no videos
+
+
+
+
+
+## Bio
+
+Kelsey Hightower is a System Admin with over 10 years of experience in making IT problems disappear using the power of unix, programming, and empathy.
+
+[http://www.linkedin.com/in/kelseyjhightower][6]
+@kelseyhightower
+
+[1]: http://www.meetup.com/South-East-Puppet-User-Group/
+[2]: http://www.meetup.com/python-atlanta/
+[3]: http://www.youtube.com/watch?v=WUlYEJ-fpfU
+[4]: http://www.youtube.com/watch?v=z9TK-gUNFHk
+[5]: http://www.juniper.net/us/en/forms/simplify-data-center-on-demand/
+[6]: http://www.linkedin.com/in/kelseyjhightower
