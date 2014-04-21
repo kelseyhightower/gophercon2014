@@ -1,5 +1,5 @@
 class ActiveRecord::Base
-  def method_missing(meth, *args, &block)
+  def method_missing(meth, *args, &block) // HL
 	if meth.to_s =~ /^find_by_(.+)$/
 	  run_find_by_method($1, *args, &block)
 	else

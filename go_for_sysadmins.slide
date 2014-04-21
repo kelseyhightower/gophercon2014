@@ -4,7 +4,7 @@ GopherCon 2014
 Tags: go
 
 Kelsey Hightower
-SRE, New Relic
+New Relic
 kelsey.hightower@gmail.com
 @kelseyhightower
 
@@ -30,17 +30,19 @@ Ruby
 
 * Changes the way you think
 
+Ruby - DSL
+
+.code think2.rb
+
+* Changes the way you think
+
 Javascript
 
-- callbacks
+Not sure what you where thinking.
 
 * Changes the way you think
 
 Go
-
-- system utilities
-- distributed systems
-- concurrent
 
 * Tools
 
@@ -48,11 +50,6 @@ Go
 # Presentation software
 # gopkg.in
 # godoc.org
-
-* Simplicity
-
-# Show some Java Code
-# Show some Javascript Code
 
 * Static Binary
 
