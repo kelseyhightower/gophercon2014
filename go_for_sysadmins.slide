@@ -1,0 +1,62 @@
+Go for System Adminstration
+GopherCon 2014
+11:45 24 Apr 2014
+Tags: go
+
+Kelsey Hightower
+SRE, New Relic
+kelsey.hightower@gmail.com
+@kelseyhightower
+
+* Why Go?
+
+* Language Matters
+
+* Changes the way you think
+
+Bash
+
+.code think.sh
+
+* Changes the way you think
+
+Ruby
+
+# http://www.trottercashion.com/2011/02/08/rubys-define_method-method_missing-and-instance_eval.html
+.code think.rb
+# If you are trying to make DSLs cool
+# But if not.
+# What happens when someone on your team learns how to do this. Your script becomes a DSL in about 24 hours.
+
+* Changes the way you think
+
+Javascript
+
+- callbacks
+
+* Changes the way you think
+
+Go
+
+- system utilities
+- distributed systems
+- concurrent
+
+* Tools
+
+# SSL cert generation for testing
+# Presentation software
+# gopkg.in
+# godoc.org
+
+* Simplicity
+
+# Show some Java Code
+# Show some Javascript Code
+
+* Static Binary
+
+* Static Binaries
+
+- 12 Facter utilities
+- Easy to deploy
