@@ -10,50 +10,93 @@ kelsey.hightower@gmail.com
 
 * Why Go?
 
+* Ansible Challenge
+
+It might be nice for us to have a module for packer.io, which uses various CM tools to build images.  It's pretty new.
+
+I'm not a Go developer, though I figured someone might like to do this, and there were probably go developers on the list.
+
+Michael DeHaan 
+
+* Reward
+
+It's small compensation, but if anyone gets one accepted, we'll send you a shirt and some stickers and build a statue of you in our formal gardens*
+
+Michael DeHaan
+
+* Reward
+
+Note, we don't have any formal gardens yet.   But when we do!  Yes, we'll do it in bronze, and maybe with you riding a horse.
+
+Michael DeHaan
+
+* Gopher on a Horse
+
+.image images/gopheronahorse.jpg
+
 * Language Matters
 
 * Changes the way you think
 
 Bash
 
-.code think.sh
+.play code/think_bash.go /START OMIT/,/END OMIT/
+
+* Changes the way you think
+
+Bash
+
+.code code/think.sh
+
+* Changes the way you think
+
+Bash
+
+.code code/rm.sh
+
+* Changes the way you think
+
+Ruby
+
+.code code/think2.rb
 
 * Changes the way you think
 
 Ruby
 
 # http://www.trottercashion.com/2011/02/08/rubys-define_method-method_missing-and-instance_eval.html
-.code think.rb
-# If you are trying to make DSLs cool
-# But if not.
-# What happens when someone on your team learns how to do this. Your script becomes a DSL in about 24 hours.
-
-* Changes the way you think
-
-Ruby - DSL
-
-.code think2.rb
+.code code/think.rb
 
 * Changes the way you think
 
 Javascript
 
-Not sure what you where thinking.
+* Changes the way you think
+
+# If you don't have anything good to say, don't say anything at all.
+
+Go
+
+.code code/think.go
 
 * Changes the way you think
 
 Go
 
-* Tools
+.play code/user.go
 
-# SSL cert generation for testing
-# Presentation software
-# gopkg.in
-# godoc.org
+* Solving Real Problems
+
+* CoreOS iPXE Server
+
+.code ipxeserver/main.go /START 0 OMIT/,/END 0 OMIT/
+
+* CoreOS iPXE Server
+
+.code ipxeserver/main.go /START 1 OMIT/,/END 1 OMIT/
+
+* CoreOS iPXE Server
+
+.play ipxeserver/main.go /START 2 OMIT/,/END 2 OMIT/
 
 * Static Binary
-
-* Static Binaries
-
-- 12 Facter utilities
-- Easy to deploy
