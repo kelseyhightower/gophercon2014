@@ -1,4 +1,4 @@
-Go for System Adminstration
+Go for Sysadmins
 GopherCon 2014
 11:45 24 Apr 2014
 Tags: go
@@ -8,7 +8,10 @@ New Relic
 kelsey.hightower@gmail.com
 @kelseyhightower
 
-* Why Go?
+* Go for Sysadmins
+
+- Toolsmithing
+- Deploying Go applications
 
 * Ansible Challenge
 
@@ -49,6 +52,12 @@ Go
 .play code/user.go
 
 * Solving Real Problems
+
+* CoreOS iPXE Server
+
+- Dynamically generate iPXE boot scripts
+- Serve static content
+- Running on our own server
 
 * CoreOS iPXE Server
 
