@@ -34,33 +34,15 @@ Michael DeHaan
 
 .image images/gopheronahorse.jpg
 
-* Language Matters
+* Start Small
 
-* Changes the way you think
-
-Bash
-
-.play code/think_bash.go /START OMIT/,/END OMIT/
-
-* Changes the way you think
-
-Bash
-
-.code code/think.sh
-
-* Changes the way you think
-
-Bash
-
-.code code/rm.sh
-
-* Changes the way you think
+* Start Small
 
 Go
 
 .code code/think.go
 
-* Changes the way you think
+* Start Small
 
 Go
 
@@ -75,6 +57,14 @@ Go
 * CoreOS iPXE Server
 
 .code ipxeserver/main.go /START 1 OMIT/,/END 1 OMIT/
+
+* CoreOS iPXE Server
+
+.code ipxeserver/main.go /START 2 OMIT/,/END 2 OMIT/
+
+* Hidden Concurrency 
+
+.code code/http_server.go
 
 * CoreOS iPXE Server
 
