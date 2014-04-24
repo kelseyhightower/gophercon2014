@@ -71,3 +71,39 @@ Go
 .play ipxeserver/main.go /START 2 OMIT/,/END 2 OMIT/
 
 * Static Binary
+
+* Cross Compiling
+
+Compile the Go runtime and standard library.
+
+.code code/crosscompile.sh /START TOOLCHAIN OMIT/,/END TOOLCHAIN OMIT/
+
+Cross compile binaries.
+
+.code code/crosscompile.sh /START BUILD OMIT/,/END BUILD OMIT/
+
+* Deployment
+
+* Deployment
+
+Copy the binary and systemd unit
+
+.code code/deploy.sh
+
+systemd unit:
+
+.code ipxeserver/ipxeserver.service
+
+* Deployment
+
+Start the service
+
+.code code/start.sh
+
+Tail the logs
+
+.code code/logs.sh
+
+* It's Go Time
+
+.image images/tatoo.jpg
